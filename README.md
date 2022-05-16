@@ -5,10 +5,8 @@ Script to calculate the median value and the confidence limits from a given arra
 ## Instructions
 
 - Download the files.
-- Install the requirements:
-		pip install -r requirements.txt
+- Install the requirements: `pip install -r requirements.txt`
 
-- Run from terminal:
-		jupyter notebook confidence_band.ipynb
+- Run from terminal: `jupyter notebook confidence_band.ipynb`
 
 
